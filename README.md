@@ -13,12 +13,13 @@
 - ⚡ Curiosidade: Sei tocar alguns instrumentos.
 
 ## Ferramentas e Tecnologias
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
+
 
 ## Estou aprendendo
-<i class="devicon-java-plain-wordmark colored"></i>
-<i class="devicon-javascript-plain"></i>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
 
 ## Contatos:
 
@@ -34,4 +35,3 @@
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=Gerfy1&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
-![snake gif](https://github.com/Gerfy1/Gerfy1/blob/output/github-contribution-grid-snake.svg)

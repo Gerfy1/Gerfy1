@@ -4,13 +4,12 @@
 ## My name is Geraldo and my nickname is Gerfy!
 
 - 🔭 Atualmente estou trabalhando em Mediações.
-- 🌱 Atualmente estou aprendendo Java/HTML/CSS/JavaScript.
+- 🌱 Atualmente estou aprendendo Java/Spring/DB & Front.
 - 👯 Estou procurando colaborar em plataformas de login e qualquer projeto criativo.
-- 🤔 Estou procurando ajuda com Java.
 - 💬 Pergunte-me sobre como estou aprendendo.
 - 📫 Como entrar em contato comigo:  Discord: gerfy Instagram: a.gerfy
 - 😄 Pronomes: Any
-- ⚡ Curiosidade: Sei tocar alguns instrumentos.
+- ⚡ Curiosidade: Sei tocar alguns instrumentos - Já tive servidores de praticamente 70% dos jogos que já joguei.
 
 ## Ferramentas e Tecnologias
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" height="40" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40" height="40" />

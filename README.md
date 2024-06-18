@@ -1,11 +1,11 @@
-### Hi there 👋
+### Hi there 👋 🎉
 
 # 👋 Hello! Welcome to my Github profile.
 ## My name is Geraldo and my nickname is Gerfy!
 
-- 🔭 Atualmente estou trabalhando em Mediações.
+- 🔭 Atualmente estou buscando um estagio em desenvolvimento/tecnologia.
 - 🌱 Atualmente estou aprendendo Java/Spring/DB & Front.
-- 👯 Estou procurando colaborar em plataformas de login e qualquer projeto criativo.
+- 👯 Estou a procura de qualquer projeto criativo & open source.
 - 💬 Pergunte-me sobre como estou aprendendo.
 - 📫 Como entrar em contato comigo:  Discord: gerfy Instagram: a.gerfy
 - 😄 Pronomes: Any

@@ -1,6 +1,5 @@
-### Hi there 👋 🎉
+### Hi 👋 🎉
 
-# 👋 Hello! Welcome to my Github profile.
 ## My name is Geraldo and my nickname is Gerfy!
 
 - 🔭 Atualmente estou buscando um estagio em desenvolvimento/tecnologia.

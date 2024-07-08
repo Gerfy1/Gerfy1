@@ -1,6 +1,6 @@
 ### Hi 👋 🎉
 
-## My name is Geraldo and my nickname is Gerfy!
+## My name is Geraldo and my nickname is Gerfy💜!
 # 💫 About Me:
 🔭 Currently seeking opportunities in development/technology.<br>🌱 Currently learning Java/Spring/DB & Front.<br>👯 Looking for any creative & open-source projects.<br>💬 Ask me about my learning journey.<br>📫 How to reach me: Discord: gerfy Instagram: a.gerfy<br>😄 Pronouns: Any<br>⚡ Fun fact: I can play several instruments - I've hosted servers for practically 70% of the games I've played.<br>💻 My portfolio: https://gerfy.tech/
 

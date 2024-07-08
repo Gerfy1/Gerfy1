@@ -7,7 +7,6 @@
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/codedbygerfy) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/geraldoaafilho) 
-[![](https://visitcount.itsvg.in/api?id=Gerfy1&icon=2&color=6)](https://visitcount.itsvg.in)
 
 # 💻 Tech Stack:
 ### LANGUAGES

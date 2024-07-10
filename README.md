@@ -2,7 +2,7 @@
 
 ## My name is Geraldo and my nickname is Gerfy💜!
 # 💫 About Me:
-🔭 Currently seeking opportunities in development/technology.<br>🌱 Currently learning Java/Spring/DB & Front.<br>👯 Looking for any creative & open-source projects.<br>💬 Ask me about my learning journey.<br>📫 How to reach me: Discord: gerfy Instagram: a.gerfy<br>😄 Pronouns: Any Pronouns<br>⚡ Fun fact: I can play several instruments - I've hosted servers for practically 70% of the games I've played.<br>💻 My portfolio: https://gerfy.tech/
+🔭 Currently seeking opportunities in development/technology.<br>🌱 Currently learning Java/Spring/DB & Front.<br>👯 Looking for any creative & open-source projects.<br>💬 Ask me about my learning journey.<br>📫 How to reach me: Discord: gerfy Instagram: a.gerfy<br>😄 Pronouns: Any<br>⚡ Fun fact: I can play several instruments - I've hosted servers for practically 70% of the games I've played.<br>💻 My portfolio: https://gerfy.tech/
 
 
 ## 🌐 Socials:
@@ -46,7 +46,7 @@
 ![Meta](https://img.shields.io/badge/Meta-%230467DF.svg?style=for-the-badge&logo=Meta&logoColor=white)
 
 
-# 📊 GitHub Stats:
+# 📊 GitHub Stats
 <div align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gerfy1&theme=codeSTACKr&hide_border=false" />
 </div>
@@ -54,7 +54,7 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Gerfy1&theme=codeSTACKr&no-frame=false&no-bg=true&margin-w=4)
 
-### ✍️ Dev Quote
+### ✍️ Dev Quote 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ###

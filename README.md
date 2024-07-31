@@ -58,7 +58,7 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ###
-Thanks 💜
+Thanks for reading 
 
 <br clear="both">
 

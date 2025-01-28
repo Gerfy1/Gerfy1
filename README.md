@@ -48,8 +48,8 @@
 
 # 📊 GitHub Stats
 
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Gerfy1&theme=nightowl" alt="GitHub Streak" /></a>
 <div align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Gerfy1&theme=nightowl" alt="GitHub Streak" /></a>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gerfy1&theme=nightowl&show_icons=true&hide_border=true&layout=compact" />
 </div>
 

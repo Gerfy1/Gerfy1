@@ -1,4 +1,13 @@
 ### <p align = center> ˖─── ⋆⋅ Hi, My name is Geraldo and my nickname is Gerfy💜 👋 🎉 ⋅⋆ ───
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/geraldoaafilho) 
+[![email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:geraldoalves@gerfy.tech) 
+[![discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](gerfy) 
+[![portfolio](https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white)](https://gerfy.tech/)
+
+</div>
+
 
 
 # 💫 About Me:

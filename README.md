@@ -1,8 +1,8 @@
-### <p align = center> ˖─── ⋆⋅ Hi 👋 🎉 ⋅⋆ ───
+### <p align = center> ˖─── ⋆⋅ Hi, My name is Geraldo and my nickname is Gerfy💜 👋 🎉 ⋅⋆ ───
 
-## My name is Geraldo and my nickname is Gerfy💜!
+
 # 💫 About Me:
-🔭 Currently seeking opportunities in development/technology.<br>🌱 Currently learning Java/Spring/Kotlin/DB & Front.<br>👯 Looking for any creative & open-source projects.<br>💬 Ask me about my learning journey.<br>📫 How to reach me: Discord: gerfy Instagram: a.gerfy<br>⚡ Fun fact: I can play several instruments - I've hosted servers for practically 70% of the games I've played.<br>💻 My portfolio: https://gerfy.tech/
+🔭 Currently seeking opportunities in development/technology.<br>🌱 Currently learning Java/Spring/Kotlin/DB & Front-End UX/UI.<br>👯 Looking for any creative & open-source projects.<br>💬 Ask me about my learning journey and projects.<br>📫 How to reach me: Discord: gerfy Instagram: a.gerfy<br>⚡ Fun fact: I can play several instruments - I've hosted servers for practically 70% of the games I've played.<br>💻 My portfolio: https://gerfy.tech/
 
 
 ## 🌐 Socials:

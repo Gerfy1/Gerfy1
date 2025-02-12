@@ -1,4 +1,4 @@
-### Hi 👋 🎉
+### <p align = center> ˖─── ⋆⋅ Hi 👋 🎉 ⋅⋆ ───
 
 ## My name is Geraldo and my nickname is Gerfy💜!
 # 💫 About Me:

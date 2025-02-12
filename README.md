@@ -3,7 +3,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/geraldoaafilho) 
 [![email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:geraldoalves@gerfy.tech) 
-[![discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](gerfy) 
+[![discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/217155541657583627)
 [![portfolio](https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white)](https://gerfy.tech/)
 
 </div>
@@ -11,11 +11,7 @@
 
 
 # 💫 About Me:
-🔭 Currently seeking opportunities in development/technology.<br>🌱 Currently learning Java/Spring/Kotlin/DB & Front-End UX/UI.<br>👯 Looking for any creative & open-source projects.<br>💬 Ask me about my learning journey and projects.<br>📫 How to reach me: Discord: gerfy Instagram: a.gerfy<br>⚡ Fun fact: I can play several instruments - I've hosted servers for practically 70% of the games I've played.<br>💻 My portfolio: https://gerfy.tech/
-
-
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/codedbygerfy) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/geraldoaafilho) 
+🔭 Currently seeking opportunities in development/technology.<br>🌱 Currently learning Java/Spring/Kotlin/DB & Front-End UX/UI.<br>💬 Ask me about my learning journey and projects.<br>⚡ Fun fact: I can play several instruments - I've hosted servers for practically 70% of the games I've played.<br>💻 My portfolio: https://gerfy.tech/
 
 # 💻 Tech Stack:
 ### LANGUAGES

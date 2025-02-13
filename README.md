@@ -11,7 +11,7 @@
 
 
 # 💫 About Me:
-🔭 Currently seeking opportunities in development/technology.<br>🌱 Currently learning Java/Spring/Angular/DB & Front-End UX/UI.<br>💬 Ask me about my learning journey and projects.<br>⚡ Fun fact: I can play several instruments - I've hosted servers for practically 70% of the games I've played.<br>💻 My portfolio: https://gerfy.tech/
+🔭 Currently seeking opportunities in development/technology.<br>🌱 Currently learning Java/Spring/Angular/DB & Front-End UX/UI.<br>💬 Ask me about my learning journey, projects and study.<br>⚡ Fun fact: I can play several instruments - I've hosted servers for practically 70% of the games I've played.<br>💻 My portfolio: https://gerfy.tech/
 
 # 💻 Tech Stack:
 ### LANGUAGES

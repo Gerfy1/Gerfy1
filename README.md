@@ -61,11 +61,15 @@
 ![Meta](https://img.shields.io/badge/Meta-%230467DF.svg?style=for-the-badge&logo=Meta&logoColor=white)
 
 
-# 📊 GitHub Stats
+## 📊 **My Stats**
+<div align="center">
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=Gerfy1&show_icons=true&theme=radical&line_height=27"/>
+  <img height="150" src="https://github-readme-streak-stats.herokuapp.com?user=Gerfy1&theme=radical"/>
+</div>
+<div align="center">
+  <img height="182em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Gerfy1&show_icons=true&theme=radical&line_height=27"/>
+</div>
 
-![](https://github-readme-stats.vercel.app/api?username=Gerfy1&theme=highcontrast&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Gerfy1&theme=highcontrast&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Gerfy1&theme=highcontrast&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 
 # ✍️ Dev Quote

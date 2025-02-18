@@ -64,9 +64,9 @@
 # 📊 GitHub Stats
 
 <div align="center">
+<img src="https://awesome-github-stats.azurewebsites.net/user-stats/Gerfy1?cardType=level-alternate&theme=nightowl&preferLogin=false"/>
 <img src="https://github-readme-streak-stats.herokuapp.com?user=Gerfy1&theme=nightowl" alt="GitHub Streak" /></a>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gerfy1&theme=nightowl&show_icons=true&hide_border=true&layout=compact" />
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/Gerfy1?cardType=level-alternate&theme=nightowl&preferLogin=false)](https://git.io/awesome-stats-card)
 </div>
 
 ## 🏆 GitHub Trophies

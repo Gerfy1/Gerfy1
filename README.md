@@ -1,13 +1,16 @@
 ### <p align = center> ˖─── ⋆⋅ Hi, My name is Geraldo and my nickname is Gerfy, welcome to my Github! 👋  ⋅⋆ ───
 <div align="center">
-
+  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/geraldoaafilho) 
 [![email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:geraldoalves@gerfy.tech) 
 [![discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/217155541657583627)
 [![portfolio](https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white)](https://gerfy.tech/)
 
 </div>
-
+<div align="center">
+    <img height="180em" src="https://github-stats-alpha.vercel.app/api?username=Gerfy1&cc=141322&tc=FE428E&ic=fff&bc=0000">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gerfy1&hide=Jupyter%20Notebook,GDScript,VHDL,verilog,Systemverilog,TeX,shell,css&layout=compact&langs_count=10&theme=radical"/>
+</div>
 
 
 # 💫 About Me:

@@ -68,10 +68,6 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Gerfy1&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br/>
 
 
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Gerfy1&theme=codeSTACKr&no-frame=false&no-bg=true&margin-w=4)
-
 ### ✍️ Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 

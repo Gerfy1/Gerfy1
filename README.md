@@ -73,7 +73,7 @@
 ## 📊 **My Stats**
 <div align="center">
   <img height="150" src="https://github-readme-stats.vercel.app/api?username=Gerfy1&show_icons=true&theme=radical&line_height=27"/>
-  <img height="150" src="https://github-readme-streak-stats.herokuapp.com?user=Gerfy1&theme=radical"/>
+  <img height="150" src="https://github-readme-streak-stats.herokuapp.com?user=Gerfy&theme=radical"/>
 </div>
 <div align="center">
   <img height="182em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Gerfy1&show_icons=true&theme=radical&line_height=27"/>

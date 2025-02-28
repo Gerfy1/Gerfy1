@@ -79,11 +79,6 @@
   <img height="182em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Gerfy1&show_icons=true&theme=radical&line_height=27"/>
 </div>
 
-
-
-# ✍️ Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
   Thanks for reading 💜
 
 <img src="https://raw.githubusercontent.com/gerfy1/gerfy1/output/snake.svg" alt="Snake animation" />

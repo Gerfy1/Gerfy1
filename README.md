@@ -1,4 +1,4 @@
-### <p align = center> ˖─── ⋆⋅ Hi, My name is Geraldo and my nickname is Gerfy, welcome to my Github! 👋  ⋅⋆ ───
+### <p align = center> ˖─── ⋆⋅ Hi My name is Geraldo and my nickname is Gerfy, welcome to my Github! 👋  ⋅⋆ ───
 
 <div align="center">
   

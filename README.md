@@ -1,4 +1,4 @@
-### <p align = center> ˖─── ⋆⋅ Hi My name is Geraldo and my nickname is Gerfy, welcome to my Github! 👋  ⋅⋆ ───
+### <p align="center">Hi, I'm Geraldo — but you can call me Gerfy 👋</p>
 
 <div align="center">
   
@@ -10,7 +10,12 @@
 </div>
 
 # 💫 About Me:
-🔭 Currently seeking opportunities in development/technology.<br>🌱 Currently learning Java/Spring/Angular/DB & Front-End UX/UI.<br>💬 Ask me about my learning journey, projects and study.<br>⚡ Fun fact: I can play several instruments - I've hosted servers for practically 70% of the games I've played.<br>💻 My portfolio: https://gerfy.tech
+- Currently looking for opportunities in development and technology  
+- Learning Java, Spring, Angular, databases and improving my UX/UI skills  
+- Always open to talk about coding, projects and my learning journey  
+- Fun fact: I play multiple instruments and used to host servers for most of the games I played  
+- Portfolio: https://gerfy.tech 💻
+<br>
 
 # 💻 Tech Stack
 ### **Languages**
@@ -37,8 +42,13 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
-## 🧰 Secondary Tools
-<sub>Insomnia • Hugo • JWT • Postman • Swagger • Bootstrap • Yarn • NPM • Hostinger • Cloudflare • GitLab • Trello • Notion • Twilio • Gradle • WordPress • phpMyAdmin</sub>
+## 🧰 Tools & Utilities
+<sub>
+Insomnia • Postman • Swagger • JWT • Hugo • Bootstrap • Yarn • NPM •  
+Hostinger • Cloudflare • WordPress • GitLab • Trello • Notion •  
+Gradle • phpMyAdmin • Twilio
+</sub>
+
 
 
 ## 📊 **My Stats**

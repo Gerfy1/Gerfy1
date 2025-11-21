@@ -13,7 +13,8 @@
 - Currently looking for opportunities in development and technology  
 - Learning Java, Spring, Angular, databases and improving my UX/UI skills  
 - Always open to talk about coding, projects and my learning journey  
-- Fun fact: I play multiple instruments and used to host servers for most of the games I played  
+- Fun fact: I play multiple instruments and used to host servers for most of the games I played
+- I love contributing to open source projects and exploring community-driven technologies
 - Portfolio: https://gerfy.tech 💻
 <br>
 
@@ -36,6 +37,7 @@
 
 ### **DevOps & Hosting**
 ![Docker](https://img.shields.io/badge/docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white)
+![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white)
 ![Oracle Cloud](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 

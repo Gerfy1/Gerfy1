@@ -57,19 +57,7 @@ Gradle • phpMyAdmin • Twilio
 ## 📊 **My Stats**
 
 <div align="center">
-    <img height="180em" src="https://github-stats-alpha.vercel.app/api?username=Gerfy1&cc=141322&tc=FE428E&ic=fff&bc=0000">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gerfy1&hide=Jupyter%20Notebook,GDScript,VHDL,verilog,Systemverilog,TeX,shell,css&layout=compact&langs_count=7&theme=radical"/>
-</div>
-<br>
-
-<div align="center">
   <img height="150" src="https://github-readme-stats.vercel.app/api?username=Gerfy1&show_icons=true&theme=radical&line_height=27"/>
-  <img height="150" src="https://github-readme-streak-stats.herokuapp.com?user=Gerfy1&theme=radical"/>
 </div>
-<br>
-<div align="center">
-  <img height="182em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Gerfy1&show_icons=true&theme=radical&line_height=27"/>
-</div>
-
 <img src="https://raw.githubusercontent.com/gerfy1/gerfy1/output/snake.svg" alt="Snake animation" />
 

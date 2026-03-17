@@ -52,12 +52,5 @@ Hostinger • Cloudflare • WordPress • GitLab • Trello • Notion •
 Gradle • phpMyAdmin • Twilio
 </sub>
 
-
-
-## 📊 **My Stats**
-
-<div align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=Gerfy1&show_icons=true&theme=radical&line_height=27"/>
-</div>
 <img src="https://raw.githubusercontent.com/gerfy1/gerfy1/output/snake.svg" alt="Snake animation" />
 

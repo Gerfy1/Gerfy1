@@ -41,16 +41,6 @@
 ![Oracle Cloud](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 
-### **Version Control**
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-
-## 🧰 Tools & Utilities
-<sub>
-Insomnia • Postman • Swagger • JWT • Hugo • Bootstrap • Yarn • NPM •  
-Hostinger • Cloudflare • WordPress • GitLab • Trello • Notion •  
-Gradle • phpMyAdmin • Twilio
-</sub>
 
 <img src="https://raw.githubusercontent.com/gerfy1/gerfy1/output/snake.svg" alt="Snake animation" />
 

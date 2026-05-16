@@ -10,10 +10,10 @@
 </div>
 
 # 💫 About Me:
-- Currently working as a Software Developer at IntuitiveCare
-- Learning Java, Spring, Angular, databases and improving my UX/UI skills  
-- Always open to talk about coding, projects and my learning journey  
-- Fun fact: I play multiple instruments and used to host servers for most of the games I played
+- 💻 Currently working as a Software Developer at IntuitiveCare
+- 🌱 Learning Java, Spring, Angular, databases and improving my UX/UI skills  
+- 💬 Always open to talk about coding, projects and my learning journey  
+- 🎮 Fun fact: I play multiple instruments and used to host servers for most of the games I played
 - I love contributing to open source projects and exploring community-driven technologies
 - Portfolio: https://gerfy.tech 💻
 <br>
